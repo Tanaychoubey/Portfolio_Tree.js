@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
-import { profile } from "../assets";
+import { profile, resume } from "../assets";
 
 const Hero = () => {
   return (
