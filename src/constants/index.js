@@ -191,7 +191,7 @@ const projects = [
   {
     name: "Pizza Delivery Web App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to order pizza and food items, with integrated Paytm payment gatway offers a seamless ordering experience. There is admin pannel by which we can edit and change manu and track orders & transactions.",
     tags: [
       {
         name: "react",
