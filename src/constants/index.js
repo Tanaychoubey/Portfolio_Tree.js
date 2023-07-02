@@ -194,15 +194,15 @@ const projects = [
       "Web-based platform that allows users to order pizza and food items, with integrated Paytm payment gatway offers a seamless ordering experience. There is admin pannel by which we can edit and change manu and track orders & transactions.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "paytm",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "mongodb",
         color: "pink-text-gradient",
       },
     ],
