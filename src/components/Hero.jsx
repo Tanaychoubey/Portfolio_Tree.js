@@ -19,7 +19,11 @@ const Hero = () => {
             I develop APIs, user interfaces, and web applications
           </p>
           <div className="flex justify-center sm:justify-start mt-4">
-            <button className="btn" type="button">
+            <button
+              className="btn"
+              type="button"
+              onClick={() => window.open(resume)}
+            >
               <strong>Download CV</strong>
               <div id="container-stars">
                 <div id="stars"></div>
