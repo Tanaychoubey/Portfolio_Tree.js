@@ -29,6 +29,7 @@ import cloudregiment from "./company/cloudregiment.png";
 import internshala from "./company/internshala.png";
 import upsale from "./company/upsale.png";
 import profile from "./profile-pic7.png"
+import resume from "../assets/tanay_choubey_resume.pdf"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -66,5 +67,6 @@ export {
   cloudregiment,
   internshala,
   upsale,
-  profile
+  profile,
+  resume
 };
