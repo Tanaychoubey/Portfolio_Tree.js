@@ -119,7 +119,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full Stack Development Training",
+    title: "Full Stack Web Development Training",
     company_name: "Intershala",
     icon: internshala,
     iconBg: "#00a5ec",
@@ -132,16 +132,16 @@ const experiences = [
     ],
   },
   {
-    title: "Java Backend Developer Internship",
+    title: "Full Stack Developer Internship",
     company_name: "Cloud Regiment | Pune, India",
     icon: cloudregiment,
     iconBg: "#fff",
     date: "May 2022 - Oct 2022",
     points: [
-      "Developed and maintained the backend of the company website using Java Springboot, ensuring that it was highly scalable, secure, and efficient.",
-      "Worked on a live project, gaining hands-on experience in building complex web applications and integrating various APIs.",
-      "Optimized the website’s performance by identifying and resolving issues related to database queries, network latency, and serverload balancing.",
-      "Integrated various third-party services such as payment gateways, social media APIs, and email providers into the website",
+      "Developed and enhanced web applications using the MERN stack ensuring that it was highly scalable, secure, and efficient.",
+      "Worked on a live project, gaining hands-on experience in building complex web applications and integrating various APIs, including handling AWS server.",
+      "Optimized the website’s performance by identifying and resolving issues related to database queries, network latency, and server load balancing.",
+      "Integrated various third-party services such as payment gateways, social media APIs, and email providers into the website.",
     ],
   },
   {
